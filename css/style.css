@@ -678,15 +678,15 @@ body {
 .footer ul li a {
   color: var(--main-color);
 }
-.footer .container p{
-    color: var(--main-color);
-    text-align: center;
-    margin-bottom: 0;
-    padding-bottom: 30px;
+.footer .container p {
+  color: var(--main-color);
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 30px;
 }
-.footer .container p span a{
-    font-size: 18px;
-    font-weight: bold;
-    color: var(--identity-color);
-
+.footer .container p span a {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--identity-color);
+}
 /* End Footer section */
